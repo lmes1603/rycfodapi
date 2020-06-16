@@ -1,0 +1,21 @@
+{
+  "name": "autoindex",
+  "version": "1.0.0",
+  "description": "Rycfod's Api",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Luis Escalante",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "aws-sdk": "^2.507.0",
+    "debug": "^4.1.1",
+    "dynamodb": "^1.2.0",
+    "express": "~4.16.0",
+    "fs": "0.0.1-security",
+    "nodemailer": "^6.3.0",
+    "pug": "^2.0.4",
+    "twilio": "^3.33.3"
+  }
+}

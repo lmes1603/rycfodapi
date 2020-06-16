@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="http://c-73-57-37-156.hsd1.fl.comcast.net:8081/twilio/voice" method="post" input="dtmf" timeout="3" numDigits="1">
+        <Say>Please press 1 for sales.</Say>
+    </Gather>
+</Response>

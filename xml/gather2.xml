@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+   <Say voice="alice">
+      Thanks for the call. Prepare for refer.
+   </Say>
+   <Pause length="35"/>
+</Response>
